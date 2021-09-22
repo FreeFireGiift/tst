@@ -1,6 +1,0 @@
-[{
-        "relation": ["delegate_permission/common.handle_all_urls"],
-        "target" : { "namespace": "android_app", "package_name": "ff.nickname.generator.twa",
-                     "sha256_cert_fingerprints": ["35:BC:B2:4E:59:9C:7F:2D:D5:56:D7:90:22:96:32:FB:DD:2C:B0:62:84:21:21:52:D4:60:19:5D:61:3C:62:07"] }
-      }
-]
